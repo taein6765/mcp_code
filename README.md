@@ -1,6 +1,6 @@
 # src/ Pipeline Overview
 
-This directory contains scripts for building and analyzing two related datasets: MCP servers/tools and Skills repositories. The pipeline moves from raw data collection → cleaning/normalization → metadata enrichment → similarity analysis → statistical and semantic visualization.
+This directory contains scripts for building and analyzing two related datasets: MCP servers/tools and Skills repositories. The pipeline moves from raw data collection → cleaning/normalization → metadata enrichment → similarity analysis → statistical and semantic visualization. Each script has a comment above describing its use and how it fits into the data analysis pipeline. 
 
 ---
 
