@@ -101,7 +101,6 @@ Scripts focused on dataset properties.
 Scripts that embed and visualize content structure.
 
 - MCP t-SNE visualization
-  - TF-IDF → SVD → t-SNE pipeline
   - Category-colored scatter plot
 
 - Skills t-SNE visualization
